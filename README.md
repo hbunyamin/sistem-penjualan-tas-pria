@@ -34,3 +34,7 @@ Instalasi **Sistem Penjualan Tas Pria** dibagi menjadi dua, yaitu **Forward Engi
    
 4. Buka browser, lalu akses program dengan mengetik `http://localhost/BuatTas4/` di browser.   
 <img src="images/tampilan-app.jpg" width="800">    
+   
+Apabila sistem penjualan ini bermanfaat, tolong sitasi sbb:   
+> Tiffani S, Bunyamin H. 2022. Perancangan Sistem Informasi Penjualan Tas Pria Berbasis Web. Bina Insani ICT Journal. Vol (no): halaman.   
+      
