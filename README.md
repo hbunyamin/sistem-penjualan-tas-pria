@@ -25,7 +25,7 @@ Instalasi **Sistem Penjualan Tas Pria** dibagi menjadi dua, yaitu **Forward Engi
 
 ## Mengakses Program
 1. Buka program **XAMPP**.    
-<img src="images/xampp-icon.jpg" width="800">    
+<img src="images/xampp-icon.jpg" width="100">    
     
 2. Start **Apache** dan **MySQL**.     
 <img src="images/apache-start.jpg" width="800">    
