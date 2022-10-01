@@ -23,10 +23,14 @@ Instalasi **Sistem Penjualan Tas Pria** dibagi menjadi dua, yaitu **Forward Engi
 7. **Forward Engineer** sudah selesai, klik **Close**.   
 <img src="images/tampilan-mysql-5.jpg" width="800">    
 
-
-
+## Mengakses Program
+1. Buka program **XAMPP**.    
 <img src="images/xampp-icon.jpg" width="100">    
-   
+    
+2. Start **Apache** dan **MySQL**.     
 <img src="images/apache-start.jpg" width="100">    
    
+3. Letakkan folder program di `C:\xampp\htdocs`.  
+   
+4. Buka browser, lalu akses program dengan mengetik `http://localhost/BuatTas4/` di browser.   
 <img src="images/tampilan-app.jpg" width="100">    
