@@ -1,3 +1,3 @@
 # Sistem Penjualan Tas Pria     
 
-![mysql-wb-icon](images/mysql-wb-icon.jpg | width=100)
+<img src="images/mysql-wb-icon.jpg" width="100"> 
