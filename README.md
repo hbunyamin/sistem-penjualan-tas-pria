@@ -25,12 +25,12 @@ Instalasi **Sistem Penjualan Tas Pria** dibagi menjadi dua, yaitu **Forward Engi
 
 ## Mengakses Program
 1. Buka program **XAMPP**.    
-<img src="images/xampp-icon.jpg" width="100">    
+<img src="images/xampp-icon.jpg" width="800">    
     
 2. Start **Apache** dan **MySQL**.     
-<img src="images/apache-start.jpg" width="100">    
+<img src="images/apache-start.jpg" width="800">    
    
 3. Letakkan folder program di `C:\xampp\htdocs`.  
    
 4. Buka browser, lalu akses program dengan mengetik `http://localhost/BuatTas4/` di browser.   
-<img src="images/tampilan-app.jpg" width="100">    
+<img src="images/tampilan-app.jpg" width="800">    
