@@ -5,7 +5,7 @@ Instalasi **Sistem Penjualan Tas Pria** dibagi menjadi dua, yaitu **Forward Engi
 ## Forward Engineer MySQL
 <img src="images/mysql-wb-icon.jpg" width="100">    
     
-<img src="images/tampilan-mysql-1.jpg" width="400">    
+<img src="images/tampilan-mysql-1.jpg" width="800">    
    
 <img src="images/tampilan-mysql-2.jpg" width="100">       
     
